@@ -4,7 +4,7 @@ Files and solved exercises from [MIT's Missing Semester](https://missing.csail.m
 
 - [x] Course overview + the shell
 - [x] Shell Tools and Scripting
-- [ ] Editors (Vim)
+- [x] Editors (Vim)
 - [ ] Data Wrangling
 - [ ] Command-line Environment
 - [ ] Version Control (Git)
